@@ -6,29 +6,29 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+cat+about.py" alt="neregen@github:~$ cat about.py" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+cat+about.py" alt="neregen@github:~$ cat about.py" />
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/neregen/neregen/main/about.svg" alt="class Developer: name, role, stack, focus, motto" />
+<img width="680" src="https://raw.githubusercontent.com/neregen/neregen/main/about.svg" alt="class Developer: name, role, stack, focus, motto" />
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+ls+~%2Fstack" alt="neregen@github:~$ ls ~/stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+ls+~%2Fstack" alt="neregen@github:~$ ls ~/stack" />
 
 <div align="center">
 
-<img height="48" src="https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img height="48" src="https://img.shields.io/badge/FastAPI-1C1C1C?style=for-the-badge&logo=fastapi&logoColor=09D3AC" />
-<img height="48" src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=6FA8DC" />
-<img height="48" src="https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img height="48" src="https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img height="48" src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=F05032" />
-<img height="48" src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
+<img height="60" src="https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img height="60" src="https://img.shields.io/badge/FastAPI-1C1C1C?style=for-the-badge&logo=fastapi&logoColor=09D3AC" />
+<img height="60" src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=6FA8DC" />
+<img height="60" src="https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img height="60" src="https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img height="60" src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=F05032" />
+<img height="60" src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+.%2Fstats.sh" alt="neregen@github:~$ ./stats.sh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+.%2Fstats.sh" alt="neregen@github:~$ ./stats.sh" />
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+.%2Fsnake+--eat+contributions" alt="neregen@github:~$ ./snake --eat contributions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+.%2Fsnake+--eat+contributions" alt="neregen@github:~$ ./snake --eat contributions" />
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+cat+contacts.txt" alt="neregen@github:~$ cat contacts.txt" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+cat+contacts.txt" alt="neregen@github:~$ cat contacts.txt" />
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+exit" alt="neregen@github:~$ exit" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+exit" alt="neregen@github:~$ exit" />
 
 <div align="center">
 
