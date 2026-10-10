@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/neregen/neregen/main/assets/about.svg" alt="class Developer: name, role, stack, focus, motto" />
+<img width="100%" src="https://raw.githubusercontent.com/neregen/neregen/main/about.svg" alt="class Developer: name, role, stack, focus, motto" />
 
 </div>
 
