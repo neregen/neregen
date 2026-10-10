@@ -6,25 +6,15 @@
 
 </div>
 
-# `neregen@github:~$ cat about.py`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+cat+about.py" alt="neregen@github:~$ cat about.py" />
 
-```python
-class Developer:
-    name = "neregen"
-    role = "Backend Developer"
-    stack = ["Python", "FastAPI", "PostgreSQL", "Docker", "Linux", "Git"]
-    focus = "clean APIs, reliable data, boring-in-a-good-way infrastructure"
-    motto = "Make it work, make it right, make it fast."
+<div align="center">
 
-    def status(self) -> str:
-        return "coding... ☕"
+<img width="100%" src="https://raw.githubusercontent.com/neregen/neregen/main/assets/about.svg" alt="class Developer: name, role, stack, focus, motto" />
 
+</div>
 
-if __name__ == "__main__":
-    print(Developer().status())
-```
-
-# `neregen@github:~$ ls ~/stack`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+ls+~%2Fstack" alt="neregen@github:~$ ls ~/stack" />
 
 <div align="center">
 
@@ -38,7 +28,7 @@ if __name__ == "__main__":
 
 </div>
 
-# `neregen@github:~$ ./stats.sh`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+.%2Fstats.sh" alt="neregen@github:~$ ./stats.sh" />
 
 <div align="center">
 
@@ -49,7 +39,7 @@ if __name__ == "__main__":
 
 </div>
 
-# `neregen@github:~$ ./snake --eat contributions`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+.%2Fsnake+--eat+contributions" alt="neregen@github:~$ ./snake --eat contributions" />
 
 <div align="center">
 
@@ -57,7 +47,7 @@ if __name__ == "__main__":
 
 </div>
 
-# `neregen@github:~$ cat contacts.txt`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+cat+contacts.txt" alt="neregen@github:~$ cat contacts.txt" />
 
 <div align="center">
 
@@ -65,7 +55,7 @@ if __name__ == "__main__":
 
 </div>
 
-# `neregen@github:~$ exit`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=760&height=44&repeat=false&lines=neregen%40github%3A~%24+exit" alt="neregen@github:~$ exit" />
 
 <div align="center">
 
