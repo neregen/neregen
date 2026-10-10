@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff6ec4,50:7873f5,100:4adede&text=neregen&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer&descSize=28&descAlignY=62&animation=fadeIn" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&height=240&color=0:ff6ec4,50:7873f5,100:4adede&text=neregen&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer&descSize=28&descAlignY=62&animation=fadeIn" alt="Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F2F2F2&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=%24+whoami+%E2%86%92+neregen;Backend+Developer+%7C+Python+%F0%9F%90%8D;Building+APIs+and+taming+databases+%F0%9F%90%98;docker+compose+up+-d+%F0%9F%90%B3;%3E+Hello%2C+world_" alt="Typing SVG" />
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+cat+about.py" alt="neregen@github:~$ cat about.py" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=470&height=28&repeat=false&lines=neregen%40github%3A~%24+cat+about.py" alt="neregen@github:~$ cat about.py" />
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+ls+~%2Fstack" alt="neregen@github:~$ ls ~/stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=470&height=28&repeat=false&lines=neregen%40github%3A~%24+ls+~%2Fstack" alt="neregen@github:~$ ls ~/stack" />
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+.%2Fstats.sh" alt="neregen@github:~$ ./stats.sh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=470&height=28&repeat=false&lines=neregen%40github%3A~%24+.%2Fstats.sh" alt="neregen@github:~$ ./stats.sh" />
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+.%2Fsnake+--eat+contributions" alt="neregen@github:~$ ./snake --eat contributions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=470&height=28&repeat=false&lines=neregen%40github%3A~%24+.%2Fsnake+--eat+contributions" alt="neregen@github:~$ ./snake --eat contributions" />
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+cat+contacts.txt" alt="neregen@github:~$ cat contacts.txt" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=470&height=28&repeat=false&lines=neregen%40github%3A~%24+cat+contacts.txt" alt="neregen@github:~$ cat contacts.txt" />
 
 <div align="center">
 
@@ -55,12 +55,12 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=560&height=32&repeat=false&lines=neregen%40github%3A~%24+exit" alt="neregen@github:~$ exit" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1500&pause=1000&color=39D353&background=0D111700&center=false&vCenter=true&width=470&height=28&repeat=false&lines=neregen%40github%3A~%24+exit" alt="neregen@github:~$ exit" />
 
 <div align="center">
 
 <a href="https://github.com/neregen"><img height="38" src="https://komarev.com/ghpvc/?username=neregen&label=PROFILE+VIEWS&color=7873f5&style=for-the-badge&labelColor=1c1c1c" alt="Profile views" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4adede,50:7873f5,100:ff6ec4" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=24&color=0:4adede,50:7873f5,100:ff6ec4" alt="Footer" />
 
 </div>
