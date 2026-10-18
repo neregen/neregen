@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=44&duration=2200&pause=900&color=F2F2F2&background=0D111700&center=true&vCenter=true&width=900&height=90&lines=Hello%21;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21;Hola%21;Bonjour%21;Hallo%21;Ciao%21;I%27m+neregen" alt="Hello, Привет, Hola, Bonjour, Hallo, Ciao, I'm neregen" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=34&duration=2500&pause=1000&color=F2F2F2&background=0D111700&center=true&vCenter=true&width=900&height=48&repeat=false&lines=DevOps+%C2%B7+Backend+developer+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL" alt="DevOps · Backend developer · Python · Docker · PostgreSQL" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=34&duration=2500&pause=1000&color=F2F2F2&background=0D111700&center=true&vCenter=true&width=900&height=48&repeat=false&lines=DevOps+%C2%B7+Backend+developer+%C2%B7+Python+%C2%B7+Docker+%C2%B7+PostgreSQL" alt="DevOps · Backend developer · Python · Docker · PostgreSQL" /><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=34&duration=2500&pause=1000&color=4ADEDE&background=0D111700&center=true&vCenter=true&width=900&height=48&repeat=false&lines=Open+to+work" alt="Open to work" />
 
 <br/>
